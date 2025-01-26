@@ -1,6 +1,6 @@
 # Rocket on WASM Rewritten
 
-A rewritten version of the [Rocket game](https://github.com/aochagavia/rocket_wasm), utilizing `wasm_bindgen` and built with `wasm-pack`.
+A rewritten version of the [Rocket game](https://github.com/aochagavia/rocket_wasm), utilizing `wasm_bindgen` and built with `wasm-pack`. The module structure has been reorganized based on my insights.
 
 ## Screenshot
 
